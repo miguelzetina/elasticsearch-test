@@ -42,8 +42,8 @@ es.indices.put_mapping(
         }
     }
 )
-"""
+
 es.indices.delete(index="travel")
 
 es.indices.create(index="travel")
-"""
+
