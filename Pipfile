@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 elasticsearch = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.7"
